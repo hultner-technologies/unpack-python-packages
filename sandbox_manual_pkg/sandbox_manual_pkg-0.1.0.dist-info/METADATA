@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: sandbox_manual_pkg
+Version: 0.1.0
+Summary:
+Author: Alexander Hultnér
+Author-email: ahultner@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3

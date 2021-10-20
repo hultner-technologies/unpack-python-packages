@@ -1,0 +1,6 @@
+sandbox_manual_pkg/__init__.py,sha256=Dmz6azxw3G9QtS/gY0PtcaqgEqPoEraixdCZlKk9ZQw,52
+sandbox_manual_pkg/__main__.py,sha256=XPtOgn/IjBbOa5VWJoBaRU1Co3J6grVScPzLitNSO34,59
+sandbox_manual_pkg/hello.py,sha256=Ga3e1koSQZbuSQGGuvrkKhkhtNfLeVS0kteSfxMi0ac,116
+sandbox_manual_pkg-0.1.0.dist-info/METADATA,sha256=aMBnvHCIkLT1tJAUpbnOpphV+WTKMXIwennFK79yOZc,259
+sandbox_manual_pkg-0.1.0.dist-info/WHEEL,sha256=8Aq70NTUpzI9DURzZ+yjmfvNvKQzy6ET0Bwl9MNd738,84
+sandbox_manual_pkg-0.1.0.dist-info/RECORD,,
