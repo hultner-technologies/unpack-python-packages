@@ -130,4 +130,6 @@ dmypy.json
 .pyre/
 
 .DS_Store
+# Let's not commit wheel files
+*.whl
 
