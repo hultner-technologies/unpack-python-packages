@@ -31,8 +31,18 @@ I will publish all the code and content in a GitHub repository. The idea is that
 - [Description](https://pretalx.com/pycon-sweden-2021/talk/ZMZWT9/)
 - [Slides](https://slides.com/hultner/pycon-sweden-2021/#/)
 
+### FlaskCon 2021 (workshop)
+
+- Live stream, see FlaskCon Discord
+- **2021-12-03** 09:00-10:30 UTC
+- [Description](https://flaskcon.com/y/2021/schedule/activity_20?tz=UTC)
+- [Slides](https://slides.com/hultner/flaskcon/#/)
+- 
 ## ⠠⠵ FAQ
 I will add interesting and common questions I get here.
 
 ## ⠠⠵ Links
-Coming soon
+- Flask Wheel Package
+  - [PyPi Files](https://pypi.org/project/Flask/#modal-close)
+  - [https://files.pythonhosted.org/packages/8f/b6/b4fdcb6d01ee20f9cfe81dcf9d3cd6c2f874b996f186f1c0b898c4a59c04/Flask-2.0.2-py3-none-any.whl](https://files.pythonhosted.org/packages/8f/b6/b4fdcb6d01ee20f9cfe81dcf9d3cd6c2f874b996f186f1c0b898c4a59c04/Flask-2.0.2-py3-none-any.whl)
+- Wheel standard, [PEP 427](https://www.python.org/dev/peps/pep-0427/)
