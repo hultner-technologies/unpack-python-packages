@@ -37,7 +37,7 @@ I will publish all the code and content in a GitHub repository. The idea is that
 - **2021-12-03** 09:00-10:30 UTC
 - [Description](https://flaskcon.com/y/2021/schedule/activity_20?tz=UTC)
 - [Slides](https://slides.com/hultner/flaskcon/#/)
-- 
+
 ## ⠠⠵ FAQ
 I will add interesting and common questions I get here.
 
